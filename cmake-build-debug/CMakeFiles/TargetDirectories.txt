@@ -1,0 +1,3 @@
+C:/Users/phill/CLionProjects/EstruturaDeDadosProject/cmake-build-debug/CMakeFiles/calculadoraDaRo.dir
+C:/Users/phill/CLionProjects/EstruturaDeDadosProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/phill/CLionProjects/EstruturaDeDadosProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
